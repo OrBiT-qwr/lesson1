@@ -8,7 +8,7 @@ word = input("Введите непонятное слово (большими �
 
 
 if  in meme_dict.kyes():
-    print(meme_dict.[words])
+    print(meme_dict[words])
     
 else:
     print("Такого слова нет")
